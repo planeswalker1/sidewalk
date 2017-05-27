@@ -1,0 +1,2 @@
+baseurl: /walk
+exclude: ['README.md']
