@@ -2,3 +2,5 @@
 ---
 
 {% include css/common.css %}
+{% include css/header.css %}
+{% include css/main.css %}
