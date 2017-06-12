@@ -1,0 +1,55 @@
+.subscribe {
+  border-bottom: 1px solid black;
+  display: flex;
+  width: 90%;
+}
+
+.form-row {
+  border-bottom: 1px solid black;
+  display: flex;
+  width: 90%;
+}
+
+.form-row {
+  text-align: center;
+}
+
+.form-row button {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.form-row input {
+  background-color: #0d326d;
+  border: none;
+  color: white;
+  flex:1 1 0;
+  font-weight: bold;
+}
+
+.social {
+  align-items: baseline;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+}
+
+.social ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.social li {
+  display: block;
+  padding-right: 10px;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
