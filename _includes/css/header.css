@@ -1,0 +1,44 @@
+header {
+  height: 400px;
+  background: #545454;
+}
+
+.box {
+  border: 1px solid #fff;
+  padding: 5%;
+}
+
+.show {
+  display: none;
+}
+
+nav {
+  align-items: baseline;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav .nav {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+.intro {
+  margin-top: 5%;
+  margin-left: 5%;
+}
+
+.intro h1 {
+  font-size: 2.5em;
+}
+
+.intro p {
+  letter-spacing: 4px;
+}
