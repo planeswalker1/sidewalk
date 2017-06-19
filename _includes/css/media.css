@@ -25,6 +25,10 @@
     width: 100%;
   }
 
+  .form-row {
+    margin: 0 auto;
+  }
+  
   #social, #social ul {
     display: block;
     text-align: center;
