@@ -46,7 +46,7 @@
   padding-right: 10px;
 }
 
-.link {
+.show a, .nav a, .social a, .info div a, .latest a {
   text-decoration: none;
   color: white;
 }
