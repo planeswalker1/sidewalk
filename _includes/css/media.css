@@ -41,6 +41,11 @@
 }
 
 @media screen and (min-width: 768px) {
+
+  header nav {
+    margin: 0 5%;
+  }
+
   .contact .info {
     align-items: baseline;
     display: flex;
